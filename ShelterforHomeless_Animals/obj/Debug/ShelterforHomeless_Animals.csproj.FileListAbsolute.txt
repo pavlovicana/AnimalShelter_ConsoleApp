@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ShelterforHomeless_Animals\ShelterforHomeless_Animals\bin\Debug\ShelterforHomeless_Animals.exe.config
+C:\Users\ASUS\source\repos\ShelterforHomeless_Animals\ShelterforHomeless_Animals\bin\Debug\ShelterforHomeless_Animals.exe
+C:\Users\ASUS\source\repos\ShelterforHomeless_Animals\ShelterforHomeless_Animals\bin\Debug\ShelterforHomeless_Animals.pdb
+C:\Users\ASUS\source\repos\ShelterforHomeless_Animals\ShelterforHomeless_Animals\obj\Debug\ShelterforHomeless_Animals.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ShelterforHomeless_Animals\ShelterforHomeless_Animals\obj\Debug\ShelterforHomeless_Animals.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ShelterforHomeless_Animals\ShelterforHomeless_Animals\obj\Debug\ShelterforHomeless_Animals.exe
+C:\Users\ASUS\source\repos\ShelterforHomeless_Animals\ShelterforHomeless_Animals\obj\Debug\ShelterforHomeless_Animals.pdb

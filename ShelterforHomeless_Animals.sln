@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShelterforHomeless_Animals", "ShelterforHomeless_Animals\ShelterforHomeless_Animals.csproj", "{4FD913B7-80DF-4F17-9E75-06D3F196E44B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD913B7-80DF-4F17-9E75-06D3F196E44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD913B7-80DF-4F17-9E75-06D3F196E44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD913B7-80DF-4F17-9E75-06D3F196E44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD913B7-80DF-4F17-9E75-06D3F196E44B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF16C403-9B36-43D2-A1BA-0216CD84B868}
+	EndGlobalSection
+EndGlobal
